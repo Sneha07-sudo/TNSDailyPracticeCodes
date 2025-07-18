@@ -1,4 +1,4 @@
-package DayOne
+package DayOne;
 
 public class FirstProgram {
 	
